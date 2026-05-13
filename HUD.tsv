@@ -44,16 +44,16 @@ TUTORIAL.INVENTORY_EMPTY.DUMMY_TEXT	Utilise [inventory1]/[inventory2]/[inventory
 TUTORIAL.MAP.TEXT	Utilise [map] pour voir la carte. La carte est <b><u>IMPORTANT</u></b> pour la navigation.
 TUTORIAL.MAP.FOCUS_TEXT	Verifie la carte!
 TUTORIAL.MAP.DUMMY_TEXT	Matient [map] et regardez le jusqu'a que tu as rempli la barre de progression !
-TUTORIAL.CART_HANDLING_1.TEXT	Ceci est un Chariot. Attrape le par la poigné.
+TUTORIAL.CART_HANDLING_1.TEXT	Ceci est un Chariot. Attrape le par la poignée.
 TUTORIAL.CART_HANDLING_1.FOCUS_TEXT	Marche avec ton Chariot un peu !
-TUTORIAL.CART_HANDLING_1.DUMMY_TEXT	Attrape le Chariot par la poigné avec [grab] et marche avec jusqu'a ce que tu as rempli la barre de progression !
-TUTORIAL.CART_HANDLING_2.TEXT	Rempli le  Chariot avec des objets de valeurs. Chariot est <b><u>IMPORTANT</u></b> pour transporter plus d'items.
+TUTORIAL.CART_HANDLING_1.DUMMY_TEXT	Attrape le Chariot par la poignée avec [grab] et marche avec jusqu'a ce que tu as rempli la barre de progression !
+TUTORIAL.CART_HANDLING_2.TEXT	Rempli le  Chariot avec des objets de valeurs. Le chariot est <b><u>IMPORTANT</u></b> pour transporter plus d'items.
 TUTORIAL.CART_HANDLING_2.FOCUS_TEXT	Rempli le Chariot avec des objets de valeurs!
 TUTORIAL.CART_HANDLING_2.DUMMY_TEXT	Met les 3 items dans le Chariot.
 TUTORIAL.EXTRACTION_POINTS.TEXT	Active et rempli les <b><u>POINT D'EXTRACTIONS</u></b> avec des objets de valeurs.
 TUTORIAL.EXTRACTION_POINTS.FOCUS_TEXT	Extrait les objets de valeurs!
 TUTORIAL.EXTRACTION_POINTS.DUMMY_TEXT	BONJOUR! REMPLI LE <b><u>POINT D'EXTRACTION</u></b> AVEC DES OBJETS DE VALEURS !
-TUTORIAL.TRUCK.TEXT	Entre dans le <b><u>CAMION-MION</u></b> et envoie un message au boss pour dire que tu quitte le niveau.
+TUTORIAL.TRUCK.TEXT	Entre dans le <b><u>CAMION</u></b> et envoie un message au boss pour dire que tu quitte le niveau.
 TUTORIAL.TRUCK.FOCUS_TEXT	Va dans le camion et envoie un message!
 TUTORIAL.TRUCK.DUMMY_TEXT	Marche dans le camion, attrape et matient la zone de message sur l'écrqn du camion avec [grab] pour envoyer un message !
 TUTORIAL.HEALING.TEXT	Partage tes pv avec les autres joueur en attrapant leur cou !
