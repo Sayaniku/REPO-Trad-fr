@@ -14,27 +14,27 @@ TUTORIAL.JUMPING.DUMMY_TEXT	Appuie sur [jump] jusqu'a que la barre soit rempli !
 TUTORIAL.SNEAKING.TEXT	Appuie sur [crouch] pour t'accroupir. Les monstres ont moins de chance de te voir.
 TUTORIAL.SNEAKING.FOCUS_TEXT	Accroupie toi pour remplir la barre !
 TUTORIAL.SNEAKING.DUMMY_TEXT	Maintient [crouch] et utilise [move] jusqu'a que la barre soit rempli !
-TUTORIAL.HIDING.TEXT	Use [crouch] to sneak under stuff and hide.
-TUTORIAL.HIDING.FOCUS_TEXT	Hide to fill the progress bar!
-TUTORIAL.HIDING.DUMMY_TEXT	Hold [crouch] and walk in under a prop, stay there until you fill the progress bar!
-TUTORIAL.SPRINTING.TEXT	Hold down [sprint] to sprint. This drains your energy.
-TUTORIAL.SPRINTING.FOCUS_TEXT	Sprint to fill the progress bar!
-TUTORIAL.SPRINTING.DUMMY_TEXT	Hold [sprint] and use [move] to sprint until you filled the progress bar! If the energy runs out, wait for it to regenerate!
-TUTORIAL.TUMBLING.TEXT	Run and press [tumble] to fall with style. Jumping also helps!
-TUTORIAL.TUMBLING.FOCUS_TEXT	Run, jump and fall to fill the progress bar!
-TUTORIAL.TUMBLING.DUMMY_TEXT	Run with [sprint], jump with [jump] and press [tumble] to throw yourself. Do it until you fill the progress bar!
-TUTORIAL.GRABBING.TEXT	Grab objects using [grab].
-TUTORIAL.GRABBING.FOCUS_TEXT	Carry that thing to fill the progress bar!
-TUTORIAL.GRABBING.DUMMY_TEXT	Appuie sur and hold [grab] on an object until you fill the progress bar!
-TUTORIAL.PUSHING_AND_PULLING.TEXT	Use [push] to alter the distance of grabbed objects.
-TUTORIAL.PUSHING_AND_PULLING.FOCUS_TEXT	Alter the distance of a grabbed item!
-TUTORIAL.PUSHING_AND_PULLING.DUMMY_TEXT	Appuie sur and hold [grab] on an object and use [push] to alter the distance of the item you grabbed!
-TUTORIAL.ROTATING.TEXT	Rotate grabbed objects using [grab2].
-TUTORIAL.ROTATING.FOCUS_TEXT	Rotate stuff to fill the progress bar!
-TUTORIAL.ROTATING.DUMMY_TEXT	While holding an object with [grab], press and hold [grab2] and move your aim to rotate it. Rotate until you fill the progress bar!
-TUTORIAL.ITEM_TOGGLING.TEXT	Grab and press [interact] to toggle items.
-TUTORIAL.ITEM_TOGGLING.FOCUS_TEXT	Toggle that thing on and off!
-TUTORIAL.ITEM_TOGGLING.DUMMY_TEXT	Grab the ball with [grab] and toggle it on and off using [interact] until you fill the progress bar!
+TUTORIAL.HIDING.TEXT	Utilise [crouch] pour t'accroupir en dessous des décorations et te cacher.
+TUTORIAL.HIDING.FOCUS_TEXT	Cache toi pour remplir la barre !
+TUTORIAL.HIDING.DUMMY_TEXT	Matient [crouch] et marche en dessous d'une decoration, reste y jusqu'a que tu remplis la barre de progression !
+TUTORIAL.SPRINTING.TEXT	Matient [sprint] pour courrir. Ca consomme de l'energie.
+TUTORIAL.SPRINTING.FOCUS_TEXT	Cours pour augmenter la barre de progresion !
+TUTORIAL.SPRINTING.DUMMY_TEXT	Matient [sprint] et utilise [move] pour courrir jusqu'a que la barre de progresion soit plein ! Si tu est a court d'energie, attends que ca recharge !
+TUTORIAL.TUMBLING.TEXT	Court et appuie sur [tumble] pour tomber avec style. Sauter peut aider !
+TUTORIAL.TUMBLING.FOCUS_TEXT	Court, saute et tombe jusqu'a que tu remplis la barre de progresion !
+TUTORIAL.TUMBLING.DUMMY_TEXT	Court avec [sprint], saute avec [jump] et appuie sur [tumble] te lancer toi-même. Fait le jusqu'a ce que tu remplis la barre de progresion !
+TUTORIAL.GRABBING.TEXT	Attrape les objets avec [grab].
+TUTORIAL.GRABBING.FOCUS_TEXT	Ramène ce truc jusqu'a que tu remplis la barre de progresion !
+TUTORIAL.GRABBING.DUMMY_TEXT	Appuie et matient [grab] sur un objet jusqu'a ce que tu remplis la barre de progresion !
+TUTORIAL.PUSHING_AND_PULLING.TEXT	Appuie sur [push] modifier la distance des objets attrapés.
+TUTORIAL.PUSHING_AND_PULLING.FOCUS_TEXT	Modifie la distance de l'objet que tu as attrapé !
+TUTORIAL.PUSHING_AND_PULLING.DUMMY_TEXT	Appuie et matient [grab] sur un objet et utilise [push] pour modifier la distance de l'objet attrapé !
+TUTORIAL.ROTATING.TEXT	Tourne l'objet attrapé avec [grab2].
+TUTORIAL.ROTATING.FOCUS_TEXT	Tourne l'objet pour remplir la barre de progression !
+TUTORIAL.ROTATING.DUMMY_TEXT	Pendant que tu tiens un objet avec [grab], appuie et matient [grab2] et déplace ton curseur pour le tourner. Tourne jusqu'a ce que tu remplis la barre de progresion !
+TUTORIAL.ITEM_TOGGLING.TEXT	Attrape et appuie sur [interact] pour intéragir avec l'item.
+TUTORIAL.ITEM_TOGGLING.FOCUS_TEXT	Intéragit avec ce dernier pour l'allumer et éteindre !
+TUTORIAL.ITEM_TOGGLING.DUMMY_TEXT	Attrape la balle avec [grab] et intéragit avec pour l'allumet et l'éteindre en utilisant [interact] remplis la barre de progresion !
 TUTORIAL.INVENTORY_FILL.TEXT	Grab an Item and use [inventory1]/[inventory2]/[inventory3] to put it in your inventory.
 TUTORIAL.INVENTORY_FILL.FOCUS_TEXT	Fill your entire inventory!
 TUTORIAL.INVENTORY_FILL.DUMMY_TEXT	While holding an item with [grab], press [inventory1]/[inventory2]/[inventory3]. Fill all spots in your inventory to complete the progress bar!
