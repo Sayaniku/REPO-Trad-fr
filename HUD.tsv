@@ -1,6 +1,6 @@
 BIG_MESSAGE.EXTRACTION.ACTIVATED	Point d'extraction actif
 BIG_MESSAGE.EXTRACTION.COMPLETED	Point d'extraction completé
-FOCUS.EXTRACTION.FILL_VALUABLES	Remplissez le point d'extraction avec des objets de valeur
+FOCUS.EXTRACTION.FILL_objets de valeurs	Remplissez le point d'extraction avec des objets de valeur
 FOCUS.EXTRACTION.AVOID_GRENADES	Evitez les grenades !
 FOCUS.EXTRACTION.FIND_NEXT	Trouvez le prochain point d'extraction
 FOCUS.EXTRACTION.BACK_TO_TRUCK	Retourner au camion !
@@ -35,34 +35,34 @@ TUTORIAL.ROTATING.DUMMY_TEXT	Pendant que tu tiens un objet avec [grab], appuie e
 TUTORIAL.ITEM_TOGGLING.TEXT	Attrape et appuie sur [interact] pour intéragir avec l'item.
 TUTORIAL.ITEM_TOGGLING.FOCUS_TEXT	Intéragit avec ce dernier pour l'allumer et éteindre !
 TUTORIAL.ITEM_TOGGLING.DUMMY_TEXT	Attrape la balle avec [grab] et intéragit avec pour l'allumet et l'éteindre en utilisant [interact] remplis la barre de progresion !
-TUTORIAL.INVENTORY_FILL.TEXT	Grab an Item and use [inventory1]/[inventory2]/[inventory3] to put it in your inventory.
-TUTORIAL.INVENTORY_FILL.FOCUS_TEXT	Fill your entire inventory!
-TUTORIAL.INVENTORY_FILL.DUMMY_TEXT	While holding an item with [grab], press [inventory1]/[inventory2]/[inventory3]. Fill all spots in your inventory to complete the progress bar!
-TUTORIAL.INVENTORY_EMPTY.TEXT	Use [inventory1]/[inventory2]/[inventory3] to take items out of your inventory.
-TUTORIAL.INVENTORY_EMPTY.FOCUS_TEXT	Empty your entire inventory!
-TUTORIAL.INVENTORY_EMPTY.DUMMY_TEXT	Use [inventory1]/[inventory2]/[inventory3] and empty all spots to fill the progress bar!
-TUTORIAL.MAP.TEXT	Use [map] to view the map. The map is <b><u>IMPORTANT</u></b> for navigation.
-TUTORIAL.MAP.FOCUS_TEXT	Check the map!
-TUTORIAL.MAP.DUMMY_TEXT	Hold down [map] and view it until you have filled the progress bar!
-TUTORIAL.CART_HANDLING_1.TEXT	This is a C.A.R.T. Grab it by the handle.
-TUTORIAL.CART_HANDLING_1.FOCUS_TEXT	Walk around with the C.A.R.T. a little!
-TUTORIAL.CART_HANDLING_1.DUMMY_TEXT	Grab the C.A.R.T. by the handle with [grab] and walk around with it until you have filled the progress bar!
-TUTORIAL.CART_HANDLING_2.TEXT	Fill C.A.R.T.s with valuables. C.A.R.T.s are <b><u>IMPORTANT</u></b> for carrying more stuff.
-TUTORIAL.CART_HANDLING_2.FOCUS_TEXT	Fill the C.A.R.T. with valuables!
-TUTORIAL.CART_HANDLING_2.DUMMY_TEXT	Put three items into the C.A.R.T.
-TUTORIAL.EXTRACTION_POINTS.TEXT	Activate and fill <b><u>EXTRACTION POINTS</u></b> with valuables.
-TUTORIAL.EXTRACTION_POINTS.FOCUS_TEXT	Extract the valuables!
-TUTORIAL.EXTRACTION_POINTS.DUMMY_TEXT	HELLO! FILL THE <b><u>EXTRACTION POINT</u></b> WITH VALUABLES!
-TUTORIAL.TRUCK.TEXT	Enter the <b><u>TRUCK</u></b> and send a message to your boss in order to leave a level.
-TUTORIAL.TRUCK.FOCUS_TEXT	Get into the truck and send a message!
-TUTORIAL.TRUCK.DUMMY_TEXT	Walk into the truck, grab and hold the message area on the truck screen with [grab] to send a message!
-TUTORIAL.HEALING.TEXT	Share your health with other players by grabbing their necks!
-TUTORIAL.REVIVING.TEXT	Revive other players by extracting their heads!
-TUTORIAL.CHARGING_STATION.TEXT	Buy <b><u>POWER CRYSTALS</u></b> for the <b><u>CHARGING STATION</u></b> to recharge and repair your gear!
-TUTORIAL.ONLY_ONE_EXTRACTION.TEXT	Only one <b><u>EXTRACTION POINT</u></b> can be active at a time, find the current one using your map!
+TUTORIAL.INVENTORY_FILL.TEXT	Attrape un item et utilise [inventory1]/[inventory2]/[inventory3] pour le mettre dans l'inventaire.
+TUTORIAL.INVENTORY_FILL.FOCUS_TEXT	Rempli ton inventaire !
+TUTORIAL.INVENTORY_FILL.DUMMY_TEXT	Pendant que tu tiens un item avec  [grab], appuie sur [inventory1]/[inventory2]/[inventory3]. Rempli tout les emplacements d'inventaire pour remplir la barre de progresion !
+TUTORIAL.INVENTORY_EMPTY.TEXT	Utilise [inventory1]/[inventory2]/[inventory3] pour sortir les items de ton inventaire.
+TUTORIAL.INVENTORY_EMPTY.FOCUS_TEXT	Vide ton inventaire entier !
+TUTORIAL.INVENTORY_EMPTY.DUMMY_TEXT	Utilise [inventory1]/[inventory2]/[inventory3] et vide tout les emplacements pour remplir la barre de progression !
+TUTORIAL.MAP.TEXT	Utilise [map] pour voir la carte. La carte est <b><u>IMPORTANT</u></b> pour la navigation.
+TUTORIAL.MAP.FOCUS_TEXT	Verifie la carte!
+TUTORIAL.MAP.DUMMY_TEXT	Matient [map] et regardez le jusqu'a que tu as rempli la barre de progression !
+TUTORIAL.CART_HANDLING_1.TEXT	Ceci est un C.A.R.T (ou Chariot). Attrape le par la poigné.
+TUTORIAL.CART_HANDLING_1.FOCUS_TEXT	Marche avec ton C.A.R.T (ou Chariot) un peu !
+TUTORIAL.CART_HANDLING_1.DUMMY_TEXT	Attrape le C.A.R.T (ou Chariot) par la poigné avec [grab] et marche avec jusqu'a ce que tu as rempli la barre de progression !
+TUTORIAL.CART_HANDLING_2.TEXT	Rempli le  C.A.R.T (ou Chariot) avec des objets de valeurs. C.A.R.T (ou Chariot) est <b><u>IMPORTANT</u></b> pour transporter plus d'items.
+TUTORIAL.CART_HANDLING_2.FOCUS_TEXT	Rempli le C.A.R.T (ou Chariot) avec des objets de valeurs!
+TUTORIAL.CART_HANDLING_2.DUMMY_TEXT	Met les 3 items dans le C.A.R.T (ou Chariot).
+TUTORIAL.EXTRACTION_POINTS.TEXT	Active et rempli les <b><u>POINT D'EXTRACTIONS</u></b> avec des objets de valeurs.
+TUTORIAL.EXTRACTION_POINTS.FOCUS_TEXT	Extrait les objets de valeurs!
+TUTORIAL.EXTRACTION_POINTS.DUMMY_TEXT	BONJOUR! REMPLI LE <b><u>POINT D'EXTRACTION</u></b> AVEC DES OBJETS DE VALEURS !
+TUTORIAL.TRUCK.TEXT	Entre dans le <b><u>CAMION-MION</u></b> et envoie un message au boss pour dire que tu quitte le niveau.
+TUTORIAL.TRUCK.FOCUS_TEXT	Va dans le camion et envoie un message!
+TUTORIAL.TRUCK.DUMMY_TEXT	Marche dans le camion, attrape et matient la zone de message sur l'écrqn du camion avec [grab] pour envoyer un message !
+TUTORIAL.HEALING.TEXT	Partage tes pv avec les autres joueur en attrapant leur cou !
+TUTORIAL.REVIVING.TEXT	Réssucite les autres joueur en extractant leur tête !
+TUTORIAL.CHARGING_STATION.TEXT	Achète des <b><u>CRYSTAUX DE POUVOIR</u></b> pour la <b><u>STATION DE RECHARGE</u></b> pour recharger et reparer votre équipement!
+TUTORIAL.ONLY_ONE_EXTRACTION.TEXT	Uniquement un <b><u>POINT D'EXTRACTION</u></b> peut-être activé en meme temps, chercher le point actuel en utilisant ta carte !
 TUTORIAL.CHAT.TEXT	Appuie sur [chat] to open the chat! It's fun!
 TUTORIAL.FINAL_EXTRACTION.TEXT	Time to leave, the truck heals you and revives carried player heads!
-TUTORIAL.MULTIPLE_EXTRACTIONS.TEXT	This level has multiple <b><u>EXTRACTION POINTS</u></b>, you must clear them all to leave!
+TUTORIAL.MULTIPLE_EXTRACTIONS.TEXT	This level has multiple <b><u>POINT D'EXTRACTIONS</u></b>, you must clear them all to leave!
 TUTORIAL.SHOP.TEXT	This is the <b><u>SHOP</u></b>, extract items to purchase. No harm lasts here!
 TUTORIAL.EXPRESSIONS.TEXT	Use [expression1]/[expression2]/[expression3]/[expression4]/[expression5]/[expression6] to make expressions. You can even mix!
 TUTORIAL.OVERCHARGE_1.TEXT	Grabbing an enemy will now cause overcharge, when full you get blasted.
@@ -71,7 +71,7 @@ TUTORIAL.HEAD_SPECTATE_1.TEXT	While dead your head charges, use that charge to b
 TUTORIAL.HEAD_SPECTATE_2.TEXT	While possessing your head, hold [jump] to jump. Hold to jump higher at a greater cost.
 TUTORIAL.ENEMY_ELSA.TEXT	PET THE DOG!
 MOON_UI.SKIP	[menu] to skip
-TUTORIAL.EXTRACTION_REMINDER.TEXT	Fill <b><u>EXTRACTION POINTS</u></b> with valuables.
+TUTORIAL.EXTRACTION_REMINDER.TEXT	Fill <b><u>POINT D'EXTRACTIONS</u></b> avec objets de valeurs.
 TUTORIAL.COSMETIC_WORLD_OBJECT_1.TEXT	This is a <b><u>COSMETIC BOX</u></b>, extract it for a reward.
 TUTORIAL.COSMETIC_WORLD_OBJECT_2.TEXT	If it gets damaged, you can <b><u>HEAL</u></b> it using your own health.
 TUTORIAL.COSMETIC_SHOP_MACHINE.TEXT	Insert <b><u>TAX TOKENS</u></b> into the shop machine to claim your rewards.
@@ -79,10 +79,10 @@ FOCUS.PREFIX	FOCUS
 FOCUS.SHOP.INTRO	Buy stuff in the shop
 FOCUS.TRUCK.INTRO	Enjoy the ride, recharge stuff and GEAR UP!
 COSMETIC_SHOP_MACHINE.INFO_TEXT	Appuie sur [interact] to insert tax token
-ITEM.CART_CANNON	C.A.R.T. Cannon
-ITEM.CART_LASER	C.A.R.T. Laser
-ITEM.CART_MEDIUM	C.A.R.T.
-ITEM.CART_SMALL	POCKET C.A.R.T.
+ITEM.CART_CANNON	C.A.R.T (ou Chariot)  Cannon
+ITEM.CART_LASER	C.A.R.T (ou Chariot)  Laser
+ITEM.CART_MEDIUM	C.A.R.T (ou Chariot)
+ITEM.CART_SMALL	POCKET C.A.R.T (ou Chariot)
 ITEM.DRONE_BATTERY	Recharge Drone
 ITEM.DRONE_FEATHER	Feather Drone
 ITEM.DRONE_INDESTRUCTIBLE	Indestructible Drone
