@@ -44,12 +44,12 @@ TUTORIAL.INVENTORY_EMPTY.DUMMY_TEXT	Utilise [inventory1]/[inventory2]/[inventory
 TUTORIAL.MAP.TEXT	Utilise [map] pour voir la carte. La carte est <b><u>IMPORTANT</u></b> pour la navigation.
 TUTORIAL.MAP.FOCUS_TEXT	Verifie la carte!
 TUTORIAL.MAP.DUMMY_TEXT	Matient [map] et regardez le jusqu'a que tu as rempli la barre de progression !
-TUTORIAL.CART_HANDLING_1.TEXT	Ceci est un C.A.R.T (ou Chariot). Attrape le par la poigné.
-TUTORIAL.CART_HANDLING_1.FOCUS_TEXT	Marche avec ton C.A.R.T (ou Chariot) un peu !
-TUTORIAL.CART_HANDLING_1.DUMMY_TEXT	Attrape le C.A.R.T (ou Chariot) par la poigné avec [grab] et marche avec jusqu'a ce que tu as rempli la barre de progression !
-TUTORIAL.CART_HANDLING_2.TEXT	Rempli le  C.A.R.T (ou Chariot) avec des objets de valeurs. C.A.R.T (ou Chariot) est <b><u>IMPORTANT</u></b> pour transporter plus d'items.
-TUTORIAL.CART_HANDLING_2.FOCUS_TEXT	Rempli le C.A.R.T (ou Chariot) avec des objets de valeurs!
-TUTORIAL.CART_HANDLING_2.DUMMY_TEXT	Met les 3 items dans le C.A.R.T (ou Chariot).
+TUTORIAL.CART_HANDLING_1.TEXT	Ceci est un Chariot. Attrape le par la poigné.
+TUTORIAL.CART_HANDLING_1.FOCUS_TEXT	Marche avec ton Chariot un peu !
+TUTORIAL.CART_HANDLING_1.DUMMY_TEXT	Attrape le Chariot par la poigné avec [grab] et marche avec jusqu'a ce que tu as rempli la barre de progression !
+TUTORIAL.CART_HANDLING_2.TEXT	Rempli le  Chariot avec des objets de valeurs. Chariot est <b><u>IMPORTANT</u></b> pour transporter plus d'items.
+TUTORIAL.CART_HANDLING_2.FOCUS_TEXT	Rempli le Chariot avec des objets de valeurs!
+TUTORIAL.CART_HANDLING_2.DUMMY_TEXT	Met les 3 items dans le Chariot.
 TUTORIAL.EXTRACTION_POINTS.TEXT	Active et rempli les <b><u>POINT D'EXTRACTIONS</u></b> avec des objets de valeurs.
 TUTORIAL.EXTRACTION_POINTS.FOCUS_TEXT	Extrait les objets de valeurs!
 TUTORIAL.EXTRACTION_POINTS.DUMMY_TEXT	BONJOUR! REMPLI LE <b><u>POINT D'EXTRACTION</u></b> AVEC DES OBJETS DE VALEURS !
@@ -60,133 +60,133 @@ TUTORIAL.HEALING.TEXT	Partage tes pv avec les autres joueur en attrapant leur co
 TUTORIAL.REVIVING.TEXT	Réssucite les autres joueur en extractant leur tête !
 TUTORIAL.CHARGING_STATION.TEXT	Achète des <b><u>CRYSTAUX DE POUVOIR</u></b> pour la <b><u>STATION DE RECHARGE</u></b> pour recharger et reparer votre équipement!
 TUTORIAL.ONLY_ONE_EXTRACTION.TEXT	Uniquement un <b><u>POINT D'EXTRACTION</u></b> peut-être activé en meme temps, chercher le point actuel en utilisant ta carte !
-TUTORIAL.CHAT.TEXT	Appuie sur [chat] to open the chat! It's fun!
-TUTORIAL.FINAL_EXTRACTION.TEXT	Time to leave, the truck heals you and revives carried player heads!
-TUTORIAL.MULTIPLE_EXTRACTIONS.TEXT	This level has multiple <b><u>POINT D'EXTRACTIONS</u></b>, you must clear them all to leave!
-TUTORIAL.SHOP.TEXT	This is the <b><u>SHOP</u></b>, extract items to purchase. No harm lasts here!
-TUTORIAL.EXPRESSIONS.TEXT	Use [expression1]/[expression2]/[expression3]/[expression4]/[expression5]/[expression6] to make expressions. You can even mix!
-TUTORIAL.OVERCHARGE_1.TEXT	Grabbing an enemy will now cause overcharge, when full you get blasted.
-TUTORIAL.OVERCHARGE_2.TEXT	Multiple people will dampen the overcharge effect.
-TUTORIAL.HEAD_SPECTATE_1.TEXT	While dead your head charges, use that charge to briefly possess your head.
-TUTORIAL.HEAD_SPECTATE_2.TEXT	While possessing your head, hold [jump] to jump. Hold to jump higher at a greater cost.
-TUTORIAL.ENEMY_ELSA.TEXT	PET THE DOG!
-MOON_UI.SKIP	[menu] to skip
-TUTORIAL.EXTRACTION_REMINDER.TEXT	Fill <b><u>POINT D'EXTRACTIONS</u></b> avec objets de valeurs.
-TUTORIAL.COSMETIC_WORLD_OBJECT_1.TEXT	This is a <b><u>COSMETIC BOX</u></b>, extract it for a reward.
-TUTORIAL.COSMETIC_WORLD_OBJECT_2.TEXT	If it gets damaged, you can <b><u>HEAL</u></b> it using your own health.
+TUTORIAL.CHAT.TEXT	Appuie sur [chat] pour ouvrir le chat ! C'est amusant !
+TUTORIAL.FINAL_EXTRACTION.TEXT	C'est le temps de partir, le médecin du camion te soigne et réssucite les têtes de joueur !
+TUTORIAL.MULTIPLE_EXTRACTIONS.TEXT	Ce niveau a plusieurs <b><u>POINT D'EXTRACTIONS</u></b>, tu dois absolument tout nettoyer pour partir!
+TUTORIAL.SHOP.TEXT	Ceci est la <b><u>BOUTIQUE</u></b>, extrait les objets pour acheter. Rien n'est permanant!
+TUTORIAL.EXPRESSIONS.TEXT	Utilise [expression1]/[expression2]/[expression3]/[expression4]/[expression5]/[expression6] pour faire les expression. Tu peux même les combiner!
+TUTORIAL.OVERCHARGE_1.TEXT	Attraper les énemies va provoquer une surcharge, quand c'est plein, tu vas te prendre une décharge.
+TUTORIAL.OVERCHARGE_2.TEXT	L'effet de surchage diminue quand il y a plusieurs personnes qui l'attrape.
+TUTORIAL.HEAD_SPECTATE_1.TEXT	Pendant que tu est mort tu as les charges de tête, utilise cette charge pour posseder ta tête.
+TUTORIAL.HEAD_SPECTATE_2.TEXT	Pendant que tu possède ta tête, utilise [jump] pour sauter. Matient le poru sauter plus haut pour un coût plus élevé.
+TUTORIAL.ENEMY_ELSA.TEXT	PATPAT LE CHIEN!
+MOON_UI.SKIP	[menu] pour passer
+TUTORIAL.EXTRACTION_REMINDER.TEXT	Rempli le <b><u>POINT D'EXTRACTIONS</u></b> avec objets de valeurs.
+TUTORIAL.COSMETIC_WORLD_OBJECT_1.TEXT	Ceci est une <b><u>BOITE DE COSMETIQUE</u></b>, extrait le pour une récompense.
+    TUTORIAL.COSMETIC_WORLD_OBJECT_2.TEXT	S'il est endommagé, tu peux le <b><u>SOIGNER</u></b>; ca va utiliser tes pv.
 TUTORIAL.COSMETIC_SHOP_MACHINE.TEXT	Insert <b><u>TAX TOKENS</u></b> into the shop machine to claim your rewards.
 FOCUS.PREFIX	FOCUS
-FOCUS.SHOP.INTRO	Buy stuff in the shop
-FOCUS.TRUCK.INTRO	Enjoy the ride, recharge stuff and GEAR UP!
-COSMETIC_SHOP_MACHINE.INFO_TEXT	Appuie sur [interact] to insert tax token
-ITEM.CART_CANNON	C.A.R.T (ou Chariot)  Cannon
-ITEM.CART_LASER	C.A.R.T (ou Chariot)  Laser
-ITEM.CART_MEDIUM	C.A.R.T (ou Chariot)
-ITEM.CART_SMALL	POCKET C.A.R.T (ou Chariot)
-ITEM.DRONE_BATTERY	Recharge Drone
-ITEM.DRONE_FEATHER	Feather Drone
-ITEM.DRONE_INDESTRUCTIBLE	Indestructible Drone
-ITEM.DRONE_TORQUE	Roll Drone
-ITEM.DRONE_ZERO_GRAVITY	Zero Gravity Drone
-ITEM.DUCK_BUCKET	Duck Bucket
-ITEM.EXTRACTION_TRACKER	Extraction Tracker
-ITEM.GRENADE_DUCT_TAPED	Duct Taped Grenades
+FOCUS.SHOP.INTRO	Achète de l'équipement dans la boutique
+FOCUS.TRUCK.INTRO	Apprécie la route, recharge ton équipement et ÉQUIPE-TOI!
+COSMETIC_SHOP_MACHINE.INFO_TEXT	Appuie sur [interact] pour insérer un jeton de taxe
+ITEM.CART_CANNON	Canon pour Chariot
+ITEM.CART_LASER	Laser pour Chariot 
+ITEM.CART_MEDIUM	Chariot
+ITEM.CART_SMALL	Chariot portable
+ITEM.DRONE_BATTERY	Drone de recharge
+ITEM.DRONE_FEATHER	Drone de lègèreté
+ITEM.DRONE_INDESTRUCTIBLE	Drone d'invincibilité
+ITEM.DRONE_TORQUE	Drone de roulage
+ITEM.DRONE_ZERO_GRAVITY	Drone anti-gravité
+ITEM.DUCK_BUCKET	Seau a cannard
+ITEM.EXTRACTION_TRACKER	Pisteur d'extraction
+ITEM.GRENADE_DUCT_TAPED	Grenades couvert d'adésif
 ITEM.GRENADE_EXPLOSIVE	Grenade
-ITEM.GRENADE_HUMAN	Human Grenade
-ITEM.GRENADE_SHOCKWAVE	Shockwave Grenade
-ITEM.GRENADE_STUN	Stun Grenade
-ITEM.GUN_HANDGUN	Gun
-ITEM.GUN_LASER	Photon Blaster
-ITEM.GUN_SHOCKWAVE	Pulse Pistol
-ITEM.GUN_SHOTGUN	Shotgun
-ITEM.GUN_STUN	Boltzap
-ITEM.GUN_TRANQ	Tranq Gun
-ITEM.HEALTH_PACK_LARGE	Large Health Pack (100)
-ITEM.HEALTH_PACK_MEDIUM	Medium Health Pack (50)
-ITEM.HEALTH_PACK_SMALL	Small Health Pack (25)
-ITEM.LEAF_BLOWER	Leaf Blower
-ITEM.MELEE_BASEBALL_BAT	Baseball Bat
-ITEM.MELEE_FRYING_PAN	Frying Pan
-ITEM.MELEE_INFLATABLE_HAMMER	Inflatable Hammer
-ITEM.MELEE_SLEDGE_HAMMER	Sledge Hammer
-ITEM.MELEE_STUN_BATON	Prodzap
-ITEM.MELEE_SWORD	Sword
-ITEM.MINE_EXPLOSIVE	Explosive Mine
-ITEM.MINE_SHOCKWAVE	Shockwave Mine
-ITEM.MINE_STUN	Trapzap
-ITEM.ORB_ZERO_GRAVITY	Zero Gravity Orb
-ITEM.PHASE_BRIDGE	Phase Bridge
-ITEM.POWER_CRYSTAL	Energy Crystal
-ITEM.REVIVE_ITEM	Defibro
-ITEM.RUBBER_DUCK	Rubber Duck
-ITEM.STAFF_TORQUE	Roll Staff
-ITEM.STAFF_VOID	Void Staff
-ITEM.STAFF_ZERO_GRAVITY	Zero Gravity Staff
-ITEM.UPGRADE_DEATH_HEAD_BATTERY	Death Head Battery Upgrade
-ITEM.UPGRADE_MAP_PLAYER_COUNT	Map Player Count Upgrade
-ITEM.UPGRADE_PLAYER_CROUCH_REST	Crouch Rest Upgrade
-ITEM.UPGRADE_PLAYER_ENERGY	Stamina Upgrade
-ITEM.UPGRADE_PLAYER_EXTRA_JUMP	Extra Jump Upgrade
-ITEM.UPGRADE_PLAYER_GRAB_RANGE	Range Upgrade
-ITEM.UPGRADE_PLAYER_GRAB_STRENGTH	Strength Upgrade
-ITEM.UPGRADE_PLAYER_HEALTH	Health Upgrade
-ITEM.UPGRADE_PLAYER_SPRINT_SPEED	Sprint Speed Upgrade
-ITEM.UPGRADE_PLAYER_TUMBLE_CLIMB	Tumble Climb Upgrade
-ITEM.UPGRADE_PLAYER_TUMBLE_LAUNCH	Tumble Launch Upgrade
-ITEM.UPGRADE_PLAYER_TUMBLE_WINGS	Tumble Wings Upgrade
-ITEM.VALUABLE_TRACKER	Valuable Tracker
-ITEM.VEHICLE_SEMISCOOTER	Hauler
-ITEM.VEHICLE_SEMISCOOTER_SMALL	Scout
+ITEM.GRENADE_HUMAN	Grenade Humaine
+ITEM.GRENADE_SHOCKWAVE	Grenade a onde de chock
+ITEM.GRENADE_STUN	Grenade étourdissant
+ITEM.GUN_HANDGUN	Pistolet
+ITEM.GUN_LASER	Cannon a Photon
+ITEM.GUN_SHOCKWAVE	Pistol a Impulsion
+ITEM.GUN_SHOTGUN	Fusil a pompe
+ITEM.GUN_STUN	Arc immobilisateur
+ITEM.GUN_TRANQ	Pistolet de tranquilité
+ITEM.HEALTH_PACK_LARGE	Gros pack de soin (100)
+ITEM.HEALTH_PACK_MEDIUM	pack de soin moyen (50)
+ITEM.HEALTH_PACK_SMALL	Petit pack de soin (25)
+ITEM.LEAF_BLOWER	Souffleur a feuille
+ITEM.MELEE_BASEBALL_BAT	Batte de Baseball
+ITEM.MELEE_FRYING_PAN	Pöele
+ITEM.MELEE_INFLATABLE_HAMMER	Marteau gonflable
+ITEM.MELEE_SLEDGE_HAMMER	Marteau de forgeron
+ITEM.MELEE_STUN_BATON	Taser
+ITEM.MELEE_SWORD	Épée
+ITEM.MINE_EXPLOSIVE	Mine éxplosive
+ITEM.MINE_SHOCKWAVE	Mine a onde de chock
+ITEM.MINE_STUN	Piège électrique
+ITEM.ORB_ZERO_GRAVITY	Orbe anti-gravité
+ITEM.PHASE_BRIDGE	Pont de lumière
+ITEM.POWER_CRYSTAL	Cristal d'énergie
+ITEM.REVIVE_ITEM	Defibrilateur
+ITEM.RUBBER_DUCK	Canard en plastique
+ITEM.STAFF_TORQUE	Batôn de roulement
+ITEM.STAFF_VOID	Batôn du vide
+ITEM.STAFF_ZERO_GRAVITY	Batôn anti gravité
+ITEM.UPGRADE_DEATH_HEAD_BATTERY	Amélioration de la batterie de la tête morte
+ITEM.UPGRADE_MAP_PLAYER_COUNT	Amélioration du compteur de jouer sur la carte
+ITEM.UPGRADE_PLAYER_CROUCH_REST	Amélioration du repos de l'accroupissement
+ITEM.UPGRADE_PLAYER_ENERGY	Amélioration de l'endurance
+ITEM.UPGRADE_PLAYER_EXTRA_JUMP	Amélioration du saut supplémentaire
+ITEM.UPGRADE_PLAYER_GRAB_RANGE	Amélioration de la distance d'attrapage
+ITEM.UPGRADE_PLAYER_GRAB_STRENGTH	Amélioration de la force
+ITEM.UPGRADE_PLAYER_HEALTH	Amélioration de la vie
+ITEM.UPGRADE_PLAYER_SPRINT_SPEED	Amélioration de la vitesse de course
+ITEM.UPGRADE_PLAYER_TUMBLE_CLIMB	Amélioration de l'escalade en statique
+ITEM.UPGRADE_PLAYER_TUMBLE_LAUNCH	Amélioration de la propulsion de la chute
+ITEM.UPGRADE_PLAYER_TUMBLE_WINGS	Amélioration de la chute planée
+ITEM.VALUABLE_TRACKER	Traceur d'objet de valeur
+ITEM.VEHICLE_SEMISCOOTER	Transporteuse
+ITEM.VEHICLE_SEMISCOOTER_SMALL	Éclaireur
 ITEM.WALKIE_TALKIE	Semibot Walkie
 ITEM.WALKIE_TALKIE_BOX	Semibot Walkies
-STATS.UPGRADES.HEADER	Upgrades
-LEVEL.HEADER	Level
-STATS.UPGRADE.CROUCH_REST	Crouch Rest
-STATS.UPGRADE.DEATH_HEAD_BATTERY	Death Head Battery
-STATS.UPGRADE.EXTRA_JUMP	Extra Jump
-STATS.UPGRADE.HEALTH	Health
-STATS.UPGRADE.LAUNCH	Tumble Launch
-STATS.UPGRADE.MAP_PLAYER_COUNT	Map Player Count
-STATS.UPGRADE.RANGE	Range
-STATS.UPGRADE.SPEED	Sprint Speed
-STATS.UPGRADE.STAMINA	Stamina
-STATS.UPGRADE.STRENGTH	Strength
-STATS.UPGRADE.TUMBLE_CLIMB	Tumble Climb
-STATS.UPGRADE.TUMBLE_WINGS	Tumble Wings
-ENEMY.ANIMAL	Animal
-ENEMY.BANG	Banger
+STATS.UPGRADES.HEADER	Améliorations
+LEVEL.HEADER	Niveau
+STATS.UPGRADE.CROUCH_REST	Repos a l'accroupissement
+STATS.UPGRADE.DEATH_HEAD_BATTERY	Batterie de la tête morte
+STATS.UPGRADE.EXTRA_JUMP	Saut supplémentaire
+STATS.UPGRADE.HEALTH	Vie
+STATS.UPGRADE.LAUNCH	Propulsion de la chute
+STATS.UPGRADE.MAP_PLAYER_COUNT	Compteur de joueur sur la carte
+STATS.UPGRADE.RANGE	Distance
+STATS.UPGRADE.SPEED	Vitesse de course
+STATS.UPGRADE.STAMINA	Énergie
+STATS.UPGRADE.STRENGTH	Force
+STATS.UPGRADE.TUMBLE_CLIMB	Esacalade en static
+STATS.UPGRADE.TUMBLE_WINGS	Chute planée
+ENEMY.ANIMAL	Animale
+ENEMY.BANG	Pétard
 ENEMY.BEAMER	Clown
-ENEMY.BIRTHDAY_BOY	Birthday Boy
-ENEMY.BOMB_THROWER	Cleanup Crew
-ENEMY.BOWTIE	Bowtie
-ENEMY.CEILING_EYE	Peeper
-ENEMY.DUCK	Apex Predator
+ENEMY.BIRTHDAY_BOY	Le fêteur
+ENEMY.BOMB_THROWER	L'équipe de néttoyage
+ENEMY.BOWTIE	Noeud Papillon
+ENEMY.CEILING_EYE	Voeyr
+ENEMY.DUCK	Le prédateur suprême Apex Predator
 ENEMY.ELSA	Elsa
-ENEMY.FLOATER	Mentalist
-ENEMY.GNOME	Gnome
-ENEMY.HEAD	Headman
-ENEMY.HEAD_GRABBER	Headgrab
-ENEMY.HEART_HUGGER	Heart Hugger
-ENEMY.HIDDEN	Hidden
-ENEMY.HUNTER	Huntsman
+ENEMY.FLOATER	Mentaliste
+ENEMY.GNOME	Nain
+ENEMY.HEAD	La tête
+ENEMY.HEAD_GRABBER	L'attrapeur de tête
+ENEMY.HEART_HUGGER	Câlinou
+ENEMY.HIDDEN	Le Caché
+ENEMY.HUNTER	Le chasseur
 ENEMY.OOGLY	Oogly
-ENEMY.ROBE	Robe
-ENEMY.RUNNER	Reaper
-ENEMY.SHADOW	Loom
-ENEMY.SLOW_MOUTH	Spewer
-ENEMY.SLOW_WALKER	Trudge
-ENEMY.SPINNY	Gambit
-ENEMY.THIN_MAN	Shadow Child
-ENEMY.TICK	Tick
+ENEMY.ROBE	La Robe
+ENEMY.RUNNER	Le faucheur
+ENEMY.SHADOW	Le tisseur
+ENEMY.SLOW_MOUTH	Le cracheur
+ENEMY.SLOW_WALKER	Le traînard
+ENEMY.SPINNY	Le parieur
+ENEMY.THIN_MAN	L'enfant de l'ombre
+ENEMY.TICK	Tique
 ENEMY.TRICYCLE	Bella
-ENEMY.TUMBLER	Chef
-ENEMY.UPSCREAM	Upscream
-ENEMY.VALUABLE_THROWER	Rugrat
-UPGRADE_STAND.INTERACT	Hold to Reroll ({cost})
-ARENA.WINNER.KING	King of the Losers!
-ARENA.WINNER.LOSERS	Everyone's a Loser!
-ARENA.MESSAGE.LAST_LOSER_STANDING	Last Loser Standing
+ENEMY.TUMBLER	Le Chef
+ENEMY.UPSCREAM	Le Criard
+ENEMY.VALUABLE_THROWER	Bébé géant
+UPGRADE_STAND.INTERACT	Matient pour relancer ({cost})
+ARENA.WINNER.KING	Le roi des perdant !
+ARENA.WINNER.LOSERS	Tout le monde est un perdant !
+ARENA.MESSAGE.LAST_LOSER_STANDING	Le dernier perdant debout
 ARENA.MESSAGE.GAME_OVER	Game Over
-SPECTATE_LIST.HEADER	The Broken Ones:
-ITEM.CART.MODE_STRONG	Mode: Strong
-ITEM.CART.MODE_WEAK	Mode: Weak
+SPECTATE_LIST.HEADER	Bons pour la casse :
+ITEM.CART.MODE_STRONG	Mode : Fort
+ITEM.CART.MODE_WEAK	Mode : Faible
