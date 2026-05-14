@@ -93,7 +93,7 @@ ITEM.EXTRACTION_TRACKER	Pisteur d'extraction
 ITEM.GRENADE_DUCT_TAPED	Grenades couvert d'adésif
 ITEM.GRENADE_EXPLOSIVE	Grenade
 ITEM.GRENADE_HUMAN	Grenade Humaine
-ITEM.GRENADE_SHOCKWAVE	Grenade a onde de chock
+ITEM.GRENADE_SHOCKWAVE	Grenade a onde de choc
 ITEM.GRENADE_STUN	Grenade étourdissant
 ITEM.GUN_HANDGUN	Pistolet
 ITEM.GUN_LASER	Cannon a Photon
@@ -112,7 +112,7 @@ ITEM.MELEE_SLEDGE_HAMMER	Marteau de forgeron
 ITEM.MELEE_STUN_BATON	Taser
 ITEM.MELEE_SWORD	Épée
 ITEM.MINE_EXPLOSIVE	Mine éxplosive
-ITEM.MINE_SHOCKWAVE	Mine a onde de chock
+ITEM.MINE_SHOCKWAVE	Mine a onde de choc
 ITEM.MINE_STUN	Piège électrique
 ITEM.ORB_ZERO_GRAVITY	Orbe anti-gravité
 ITEM.PHASE_BRIDGE	Pont de lumière
@@ -127,7 +127,7 @@ ITEM.UPGRADE_MAP_PLAYER_COUNT	Amélioration du compteur de jouer sur la carte
 ITEM.UPGRADE_PLAYER_CROUCH_REST	Amélioration du repos de l'accroupissement
 ITEM.UPGRADE_PLAYER_ENERGY	Amélioration de l'endurance
 ITEM.UPGRADE_PLAYER_EXTRA_JUMP	Amélioration du saut supplémentaire
-ITEM.UPGRADE_PLAYER_GRAB_RANGE	Amélioration de la distance d'attrapage
+ITEM.UPGRADE_PLAYER_GRAB_RANGE	Amélioration de la distance
 ITEM.UPGRADE_PLAYER_GRAB_STRENGTH	Amélioration de la force
 ITEM.UPGRADE_PLAYER_HEALTH	Amélioration de la vie
 ITEM.UPGRADE_PLAYER_SPRINT_SPEED	Amélioration de la vitesse de course
@@ -153,14 +153,14 @@ STATS.UPGRADE.STAMINA	Énergie
 STATS.UPGRADE.STRENGTH	Force
 STATS.UPGRADE.TUMBLE_CLIMB	Esacalade en static
 STATS.UPGRADE.TUMBLE_WINGS	Chute planée
-ENEMY.ANIMAL	Animale
+ENEMY.ANIMAL	Animal
 ENEMY.BANG	Pétard
 ENEMY.BEAMER	Clown
 ENEMY.BIRTHDAY_BOY	Le fêteur
 ENEMY.BOMB_THROWER	L'équipe de néttoyage
 ENEMY.BOWTIE	Noeud Papillon
-ENEMY.CEILING_EYE	Voeyr
-ENEMY.DUCK	Le prédateur suprême Apex Predator
+ENEMY.CEILING_EYE	Voyeur
+ENEMY.DUCK	Le prédateur suprême
 ENEMY.ELSA	Elsa
 ENEMY.FLOATER	Mentaliste
 ENEMY.GNOME	Nain
