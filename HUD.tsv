@@ -74,7 +74,7 @@ MOON_UI.SKIP	[menu] pour passer
 TUTORIAL.EXTRACTION_REMINDER.TEXT	Rempli le <b><u>POINT D'EXTRACTIONS</u></b> avec objets de valeurs.
 TUTORIAL.COSMETIC_WORLD_OBJECT_1.TEXT	Ceci est une <b><u>BOITE DE COSMETIQUE</u></b>, extrait le pour une récompense.
     TUTORIAL.COSMETIC_WORLD_OBJECT_2.TEXT	S'il est endommagé, tu peux le <b><u>SOIGNER</u></b>; ca va utiliser tes pv.
-TUTORIAL.COSMETIC_SHOP_MACHINE.TEXT	Insert <b><u>TAX TOKENS</u></b> into the shop machine to claim your rewards.
+TUTORIAL.COSMETIC_SHOP_MACHINE.TEXT	Insert des <b><u>JETONS DE TAXE</u></b> dans la machine a sous pour récuperer tes recompenses.
 FOCUS.PREFIX	FOCUS
 FOCUS.SHOP.INTRO	Achète de l'équipement dans la boutique
 FOCUS.TRUCK.INTRO	Apprécie la route, recharge ton équipement et ÉQUIPE-TOI!
