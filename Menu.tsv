@@ -48,7 +48,7 @@ POPUP.USE_BACKUP.HEADER	Restaurer de la backup
 POPUP.USE_BACKUP.BODY	Réecrire la sauvegarde avec la dernière backup?\n\nCela est irréversible !
 POPUP.USE_BACKUP.OPT1	Oui !
 POPUP.USE_BACKUP.OPT2	Non
-REGIONS.HEADER	Regions
+REGIONS.HEADER	Régions
 REGIONS.BACK	Retour
 REGIONS.REGION.PICK_BEST_REGION	Choisir la meilleur Region
 REGIONS.REGION.ASIA	Asie
@@ -362,3 +362,21 @@ LOADING.LEVEL.SHOP	Boutique
 LOADING.LEVEL.LEVEL_NUMBER Niveau {number}
 LOADING.LEVEL.GAME_OVER	Perdu
 SAVES.SAVE_INFO.PLAYER_SOLO	Vous l'avez fait tout seul !
+POPUP.SAVE_LIMIT.HEADER	Limite de fichier de sauvegarde atteint
+POPUP.SAVE_LIMIT.BODY	Tu ne peux avoir que {limit} de fichier de sauvegarde en meme temps. Supprime quelque fichiers de sauvegarde pour faire de la place pour en faire de nouveau.
+POPUP.SAVE_LIMIT.BUTTON	OK
+POPUP.KICKED.HEADER	Éjecté
+POPUP.KICKED.BODY	Tu as été éjecté par l'hôte.
+POPUP.KICKED.BUTTON	Ok Dang
+POPUP.DISCONNECTED.HEADER	Déconnecté
+POPUP.DISCONNECTED.STUCK_LOADING	Bloqué dans le chargement
+POPUP.DISCONNECTED.HOST_DISCONNECTED	L'hôte a déconnecté
+POPUP.DISCONNECTED.BUTTON	Ok Dang
+POPUP.VERSION_MISMATCH.HEADER	Mauvaise version du jeu
+POPUP.VERSION_MISMATCH.BODY	Le lobby du jeu utilise la version :\n{version}
+POPUP.VERSION_MISMATCH.BUTTON	Ok Dang
+POPUP.LOBBY_CLOSED.HEADER	Lobby fermé
+POPUP.LOBBY_CLOSED.BODY	Le lobby a été fermé.
+POPUP.LOBBY_CLOSED.BUTTON	Ok Dang
+POPUP.DISCONNECTED.CAUSE_PREFIX	Raison :
+POPUP.DISCONNECTED.BANNED_LOBBY	Tu as été banni de ce lobby.

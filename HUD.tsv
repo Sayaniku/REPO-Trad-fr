@@ -1,6 +1,6 @@
 BIG_MESSAGE.EXTRACTION.ACTIVATED	Point d'extraction actif
 BIG_MESSAGE.EXTRACTION.COMPLETED	Point d'extraction completé
-FOCUS.EXTRACTION.FILL_VALUABLES	Remplissez le point d'extraction avec des objets de valeur
+FOCUS.EXTRACTION.FILL_objets de valeurs	Remplissez le point d'extraction avec des objets de valeur
 FOCUS.EXTRACTION.AVOID_GRENADES	Evitez les grenades !
 FOCUS.EXTRACTION.FIND_NEXT	Trouvez le prochain point d'extraction
 FOCUS.EXTRACTION.BACK_TO_TRUCK	Retourner au camion !
@@ -55,7 +55,7 @@ TUTORIAL.EXTRACTION_POINTS.FOCUS_TEXT	Extrait les objets de valeurs!
 TUTORIAL.EXTRACTION_POINTS.DUMMY_TEXT	BONJOUR! REMPLI LE <b><u>POINT D'EXTRACTION</u></b> AVEC DES OBJETS DE VALEURS !
 TUTORIAL.TRUCK.TEXT	Entre dans le <b><u>CAMION</u></b> et envoie un message au boss pour dire que tu quitte le niveau.
 TUTORIAL.TRUCK.FOCUS_TEXT	Va dans le camion et envoie un message!
-TUTORIAL.TRUCK.DUMMY_TEXT	Marche dans le camion, attrape et matient la zone de message sur l'écran du camion avec [grab] pour envoyer un message !
+TUTORIAL.TRUCK.DUMMY_TEXT	Marche dans le camion, attrape et matient la zone de message sur l'écrqn du camion avec [grab] pour envoyer un message !
 TUTORIAL.HEALING.TEXT	Partage tes pv avec les autres joueur en attrapant leur cou !
 TUTORIAL.REVIVING.TEXT	Réssucite les autres joueur en extractant leur tête !
 TUTORIAL.CHARGING_STATION.TEXT	Achète des <b><u>CRYSTAUX DE POUVOIR</u></b> pour la <b><u>STATION DE RECHARGE</u></b> pour recharger et reparer votre équipement!
